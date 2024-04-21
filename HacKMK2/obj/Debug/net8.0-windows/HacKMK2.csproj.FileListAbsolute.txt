@@ -1,0 +1,17 @@
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\bin\Debug\net8.0-windows\HacKMK2.exe
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\bin\Debug\net8.0-windows\HacKMK2.deps.json
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\bin\Debug\net8.0-windows\HacKMK2.runtimeconfig.json
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\bin\Debug\net8.0-windows\HacKMK2.dll
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\bin\Debug\net8.0-windows\HacKMK2.pdb
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.Form1.resources
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.Properties.Resources.resources
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.csproj.GenerateResource.cache
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.AssemblyInfoInputs.cache
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.AssemblyInfo.cs
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.csproj.CoreCompileInputs.cache
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.dll
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\refint\HacKMK2.dll
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.pdb
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\HacKMK2.genruntimeconfig.cache
+C:\Users\Gál-Pál István\Desktop\Isti mappája\Tananyag\Egyetem\Semestru 2\Visual studio\HacKMK2\obj\Debug\net8.0-windows\ref\HacKMK2.dll
